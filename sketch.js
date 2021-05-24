@@ -52,7 +52,8 @@ function draw() {
   stone1.display();
   iron.display();
   sand1.display();
- 
+sand2.display();	
+ sand3.display();
 }
 
 
